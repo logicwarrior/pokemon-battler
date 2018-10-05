@@ -1,0 +1,30 @@
+{
+  "name": "core-pokemon-battler",
+  "version": "1.0.0",
+  "description": "Pokemon Game",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "mocha ./spec*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicwarrior/CORE-pokemon-battler.git"
+  },
+  "author": "Jon Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logicwarrior/CORE-pokemon-battler/issues"
+  },
+  "homepage": "https://github.com/logicwarrior/CORE-pokemon-battler#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  },
+  "dependencies": {
+    "delay": "^2.0.0",
+    "inquirer": "^5.1.0",
+    "node-mp3-player": "^1.0.3",
+    "play-sound": "^1.1.2",
+    "player": "^0.6.1"
+  }
+}

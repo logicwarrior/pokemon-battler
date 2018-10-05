@@ -1,0 +1,27 @@
+
+module.exports = [
+    ['Bulbasaur', 'Grass', 'Leaf Storm', '100', '10',
+'../media/plant/poison-sting.mp3', 'Fetch my green pants!'],
+['Ivysaur', 'Grass', 'Grass Whistle', '100', '20',
+'../media/plant/weird-whistle.mp3', 'And now like the deceased elepant, Ivy returns!'],
+['Venusaur', 'Grass', 'Forest Curse', '100', '30',
+'../media/plant/hypno.mp3', 'Never fear, Venusaur is here!'],
+['Oddish', 'Grass', 'Solar Blade', '100', '40',
+'../media/plant/screetch.mp3', 'Wind in the Willows, dontcha know?'],
+['Squirtle', 'Water', 'Aqua Jet', '100', '10',
+'../media/water/waterblast.mp3', 'I will squirt like your mum!!!'], 
+['Wartortle', 'Water', 'Hydro Cannon', '100', '20',
+'../media/water/water-splash.mp3', 'Go ahead make my day!'], 
+['Blastoise', 'Water', 'Muddy Water', '100', '30',
+'../media/water/pokeball-open.mp3', 'The feeling of helpnessness is your best friend!'], 
+['Psyduck', 'Water', 'Water Spout', '100', '40',
+'../media/water/tornado-attack.mp3', 'Lucky you to be killed by the best!'],
+['Charmander', 'Fire', 'Fire Blast', '100', '10',
+'../media/fire/fire-blast.mp3', 'Kick em in the balls!'],
+['Charmeleon', 'Fire', 'Fire Storm', '100', '20',
+'../media/fire/charge-explosion.mp3', 'Make Charmeleon Great Again!'],
+['Charizard', 'Fire', 'Fire Punch', '100', '30',
+'../media/fire/thunder-shock.mp3', 'I will beat you with fire and fury!'],
+['Vulpix', 'Fire', 'Fire Flare', '100', '40',
+'../media/fire/flame-thrower.mp3', 'Over my dead bleeding body!']
+]
